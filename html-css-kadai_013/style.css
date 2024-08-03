@@ -71,6 +71,7 @@ header {
   display: flex;
   justify-content: space-between;
 }
+/*pc用ナビゲーション*/
 #nav-pc {
   font-size: 14px;
   padding-top: 15px;
